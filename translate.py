@@ -1,3 +1,6 @@
+# first translate the given comments to English
+
+
 agent = {'User-Agent':
 "Mozilla/4.0 (\
 compatible;\

@@ -1,4 +1,5 @@
-# comment-filter-unsupervised
+# unsupervised-sentiment-analysis
+
 From a large corpus of comments that come into a page, identify and filter out the ones deemed 'inappropriate' or 'toxic', even without the aid of labelled examples.
 
 The models here use GloVe vectors as the basis for identifying toxic comments. There are 2 models, 'pre-trained.py', where GloVe vectors have been used as such, and 'new-trained.py', where GloVe vectors have been trained further on the existing dat set, 'data_dump.txt'. 
